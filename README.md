@@ -7,7 +7,8 @@ Hello, I'm @VioletBitKitten. The VTuber/Developer persona for an IT professional
 [![Github: VioletBitKitten](https://img.shields.io/github/followers/VioletBitKitten?style=social)](https://github.com/VioletBitKitten) \
 [![Twitch: VioletBitKitten](https://img.shields.io/twitch/status/VioletBitKitten?style=social)](https://www.twitch.tv/violetbitkitten/about) \
 [![Twitter: VioletBitKitten](https://img.shields.io/twitter/follow/violetbitkitten?style=social)](https://twitter.com/violetbitkitten) \
-[![YouTube: VioletBitKitten](https://img.shields.io/youtube/channel/subscribers/UCkZ22dqhDMphonH56mC7I3w?style=social)](https://www.youtube.com/@VioletBitKitten)
+[![YouTube: VioletBitKitten](https://img.shields.io/youtube/channel/subscribers/UCkZ22dqhDMphonH56mC7I3w?style=social)](https://www.youtube.com/@VioletBitKitten) \
+[![Discord](https://img.shields.io/discord/1144984263347929098?label=Discord&style=social)](https://discord.gg/4ZQuQFEYht)
 
 ## Streaming
 
