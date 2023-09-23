@@ -13,12 +13,6 @@ I have been experimenting with VTube streaming. I do not like to talk so I am de
 
 ## VtuberVoice
 
-[![FreePascal](https://img.shields.io/badge/FreePascal-3.2.2-blue?logo=lazarus)](https://www.freepascal.org/)
-[![Github: VioletBitKitten - VioletBitKitten](https://img.shields.io/github/last-commit/VioletBitKitten/VTuberVoice/main)]([https://github.com/VioletBitKitten](https://github.com/VioletBitKitten/VTuberVoice)) 
-[![Github: VioletBitKitten - VioletBitKitten](https://img.shields.io/github/license/VioletBitKitten/VTuberVoice)]([[https://github.com/VioletBitKitten](https://github.com/VioletBitKitten/VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice/blob/main/LICENSE))) 
-[![Github: VioletBitKitten - VioletBitKitten](https://img.shields.io/github/issues/VioletBitKitten/VTuberVoice)]([[https://github.com/VioletBitKitten](https://github.com/VioletBitKitten/VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice/issues))) 
-
-
 [VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice) is TTS (Text to Speech) software for vtubers that don't or can't speak.
 VTuberVoice is written in FreePascal using the [Microsoft Windows SAPI library for FreePascal](https://github.com/VioletBitKitten/SAPI) I also created.
 I created this software because I do not like to talk and there are few solutions for VTubers that don't speak.
