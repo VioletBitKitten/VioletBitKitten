@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/VioletBitKitten/VioletBitKitten/main/ProfileBannerGitHub.png)
-
 # Violet Bit Kitten (VBK)
+
+![VioletBitKitten Page Banner](https://raw.githubusercontent.com/VioletBitKitten/VioletBitKitten/main/ProfileBannerGitHub.png)
 
 Hello, I'm @VioletBitKitten. The VTuber/Developer persona for an IT professional and hobby developer. My pronouns are She/Her
 
@@ -8,7 +8,8 @@ Hello, I'm @VioletBitKitten. The VTuber/Developer persona for an IT professional
 [![Twitch: VioletBitKitten](https://img.shields.io/twitch/status/VioletBitKitten?style=social)](https://www.twitch.tv/violetbitkitten/about) \
 [![Twitter: VioletBitKitten](https://img.shields.io/twitter/follow/violetbitkitten?style=social)](https://twitter.com/violetbitkitten) \
 [![YouTube: VioletBitKitten](https://img.shields.io/youtube/channel/subscribers/UCkZ22dqhDMphonH56mC7I3w?style=social)](https://www.youtube.com/@VioletBitKitten) \
-[![Discord](https://img.shields.io/discord/1144984263347929098?label=Discord&style=social)](https://discord.gg/4ZQuQFEYht)
+[![Discord](https://img.shields.io/discord/1144984263347929098?label=Discord&style=social)](https://discord.gg/4ZQuQFEYht) \
+[![Violet Bit Kitten's Blog](https://img.shields.io/badge/Blog-VioletBitKitten-FFFFFF?logo=jekyll&logoColor=%23CC0000&labelColor=FFFFFF&style=social)](https://violetbitkitten.github.io/)
 
 ## Streaming
 
@@ -20,9 +21,3 @@ I do not like to talk so I am developing [TTS](https://en.wikipedia.org/wiki/Spe
 [VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice) is TTS software for vtubers that don't or can't speak.
 VTuberVoice is written in FreePascal using the [Microsoft Windows SAPI library for FreePascal](https://github.com/VioletBitKitten/SAPI) I also created.
 I created this software because I do not like to talk and there are few solutions for VTubers that don't speak.
-
-
-<!---
-VioletBitKitten/VioletBitKitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
