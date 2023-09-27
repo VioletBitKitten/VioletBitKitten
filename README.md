@@ -9,7 +9,8 @@ Hello, I'm @VioletBitKitten. The VTuber/Developer persona for an IT professional
 [![Twitter: VioletBitKitten](https://img.shields.io/twitter/follow/violetbitkitten?style=social)](https://twitter.com/violetbitkitten) \
 [![YouTube: VioletBitKitten](https://img.shields.io/youtube/channel/subscribers/UCkZ22dqhDMphonH56mC7I3w?style=social)](https://www.youtube.com/@VioletBitKitten) \
 [![Discord](https://img.shields.io/discord/1144984263347929098?label=Discord&style=social)](https://discord.gg/4ZQuQFEYht) \
-[![Violet Bit Kitten's Blog](https://img.shields.io/badge/Blog-VioletBitKitten-FFFFFF?logo=jekyll&logoColor=%23CC0000&labelColor=FFFFFF&style=social)](https://violetbitkitten.github.io/)
+[![Violet Bit Kitten's Blog](https://img.shields.io/badge/Blog-VioletBitKitten-FFFFFF?logo=jekyll&logoColor=%23CC0000&labelColor=FFFFFF&style=social)](https://violetbitkitten.github.io/) \
+[![Ko-Fi](https://img.shields.io/badge/Support_me-000000?logo=ko-fi&label=Ko-fi&style=social)](https://ko-fi.com/violetbitkitten)
 
 ## Streaming
 
