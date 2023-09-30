@@ -14,11 +14,12 @@ Hello, I'm @VioletBitKitten. The VTuber/Developer persona for an IT professional
 
 ## Streaming
 
-I have been experimenting with VTube streaming. I am still new to streaming so I am learning as I go. I sream a few games and development on my TTS software [VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice).
+I have been experimenting with VTube streaming. I am still new to streaming so I am learning as I go. I stream a few games and development on my TTS software [VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice).
 
 ## VtuberVoice
 
 I do not like to talk so I am developing [TTS](https://en.wikipedia.org/wiki/Speech_synthesis) (Text to Speech) software for VTubers called [VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice).
-[VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice) is TTS software for vtubers that don't or can't speak.
-VTuberVoice is written in FreePascal using the [Microsoft Windows SAPI library for FreePascal](https://github.com/VioletBitKitten/SAPI) I also created.
-I created this software because I do not like to talk and there are few solutions for VTubers that don't speak.
+[VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice) is TTS software for VTubers that don't or can't speak.
+[VTuberVoice](https://github.com/VioletBitKitten/VTuberVoice) is written in FreePascal using the [Microsoft Windows SAPI library for FreePascal](https://github.com/VioletBitKitten/SAPI) I also created.
+
+I created this software there are few solutions for VTubers that don't speak. Mot VTubers who use TTS have a custom solution. My goal is to make a solution everyone can use.
